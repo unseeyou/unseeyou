@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @unseeyou
-- 👀 I’m interested in discord bots and automation
-- 🌱 I’m currently learning java & python, plus a little bit of javascript
+- 👀 I’m interested in discord bots and automation and AI
+- 🌱 I’m currently learning java & python, plus a little bit of javascript, as well as java.
 - 📫 How to reach me for any enquiries: `unseeyou#2912` on discord, or just on github
