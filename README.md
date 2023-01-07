@@ -2,4 +2,4 @@
 - 👀 I’m interested in discord bots and automation and AI
 - 🌱 I’m currently learning java & python, plus a little bit of javascript, as well as how to computer in general
 - 📫 How to reach me for any enquiries: `unseeyou#2912` on discord, or just on github
-- 🤑 Check out my fiverr gig for custom discord bots if thats a thong you want: https://www.fiverr.com/share/rARza0
+- 🤑 Check out my fiverr gig for custom discord bots if that is a thing you want: https://www.fiverr.com/share/rARza0
