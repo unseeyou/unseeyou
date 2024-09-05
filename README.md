@@ -4,3 +4,15 @@
 - 📫 How to reach me: `unseeyou` on discord, my fiverr page has a contact button, or right here on github
 - 💸 Check out my fiverr gig for custom discord bots if that is a thing you want: https://www.fiverr.com/share/rARza0
 - 💻 I'm currently working on unseebot, a discord bot which I have constantly updated for 2 years --> https://github.com/unseeyou/unseebot
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=unseeyou&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=unseeyou&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=unseeyou&show_icons=true" />
+</picture>
