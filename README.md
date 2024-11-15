@@ -16,3 +16,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=unseeyou&show_icons=true" />
 </picture>
+
+[![An image of @unseeyou's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unseeyou)](https://holopin.io/@unseeyou)
