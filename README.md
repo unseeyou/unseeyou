@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,cpp,c)](https://skillicons.dev)
+
 - 👋 Hi, I’m unseeyou.
 - 👀 I’m interested in discord bots, automation and AI
 - 🌱 I’m currently learning C++ & python, plus some very basic javascript and html and css to make [websites](https://unseeyou.pages.dev), as well as how to use computers in general
